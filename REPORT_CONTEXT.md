@@ -4,17 +4,17 @@
 
 - **Titre du projet :** Réalisation des tests bout en bout chez Bouygues Telecom en utilisant l'IA
 - **Étudiant :** Kassimi Abderrahmane
-- **Encadrant entreprise :** Aicha Mountasir (Capgemini)
+- **Encadrante entreprise (Capgemini) :** Aicha Mountasir
 - **École :** Ecole Marocaine des Sciences de l'Ingénieur (EMSI)
 - **Année universitaire :** 2024–2025
 - **Langue du rapport :** Français
 
-## Encadrement et équipe (historique des informations fournies)
+## Encadrement et équipe (corrigé)
 
 - **Encadrant école :** El Mehdi Belasla (EMSI)
-- **Cheffe de projet :** Ikram Dahbi
-- **Responsable / Supervision complémentaire :** Saloua Azouzi
-- **Travail en collaboration avec un collègue en automatisation des tests**
+- **Cheffe de projet :** Saloua Azouzi
+- **Collègue (automatisation des tests) :** Ikram Dahbi
+- **Superviseure chez Capgemini :** Aicha Mountasir
 
 ## Règles de rédaction souhaitées
 
